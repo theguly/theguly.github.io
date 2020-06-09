@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Goooooood morning Internet!"
+description: "Let's restart from the very beginning of this epoch"
 tags:
  - noise
 ---
