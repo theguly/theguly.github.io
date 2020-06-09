@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Goooooood morning Internet!"
-description: "Let's restart from the very beginning of this epoch"
+description: Let's restart from the very beginning of this epoch.
+share: true
 tags:
  - noise
 ---
