@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cracking The Perimeter - Offensive Security Certified Expert"
-description: "Here is my take on Cracking The Perimeter course and relative exam for Offensive Security Certified Expert""
+description: "Here is my take on Cracking The Perimeter course and relative exam for Offensive Security Certified Expert"
 share: true
 tags:
  - courses

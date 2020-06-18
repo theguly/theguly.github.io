@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advanced Web Attack and Exploitation - Offensive Security Web Expert"
-description: "Here is my take on Advanced Web Attack and Exploitation course and relative exam for Offensive Security Web Expert""
+description: "Here is my take on Advanced Web Attack and Exploitation course and relative exam for Offensive Security Web Expert"
 share: true
 tags:
  - courses
