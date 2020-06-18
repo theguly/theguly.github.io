@@ -72,7 +72,7 @@ There are tons of exploit on exploit-db, I think this is the best way to sharpen
 
 ## Exam
 
-Like for [OSCE]({{site.baseurl} }/2016/11/Offensive-Security-Certified-Expert), the exam is a 48hrs lab time plus 24hrs to write/review/send the report.  
+Like for [OSCE]({{site.baseurl}}/2016/11/Offensive-Security-Certified-Expert), the exam is a 48hrs lab time plus 24hrs to write/review/send the report.  
 You will have *some* webapp to analyze and exploit, and you can easily guess required steps.
 
 As I said before, you could be asked to review a multi-million lines-of-code webapp. A lifetime wouldn't be enough to do a full code review, and you have just 48hrs to find and exploit.  
