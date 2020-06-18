@@ -2,3 +2,5 @@ _cache
 _site
 .idea/
 .jekyll-cache
+_posts/YYYY-MM-DD-course.md
+todo.txt
