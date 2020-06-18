@@ -6,7 +6,8 @@ share: true
 tags:
  - courses
  - certifications
- - exploit
+ - red
+ - web
 ---
 
 # Offensive Security - Advanced Web Attack and Exploitation (AWAE)

@@ -6,7 +6,7 @@ share: true
 tags:
  - courses
  - certifications
- - exploit
+ - red
 ---
 
 # Offensive Security - Cracking The Perimeter (CTP)
