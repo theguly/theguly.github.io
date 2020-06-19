@@ -10,7 +10,7 @@ tags:
  - web
 ---
 
-# Offensive Security - Advanced Web Attack and Exploitation (AWAE)
+# Review of Offensive Security - Advanced Web Attack and Exploitation (AWAE)
 
 All Offensive Security fans was waiting for [AWAE](https://www.offensive-security.com/awae-oswe/) to become available online since forever, and finally they announced availability in spring 2019 (and now are waiting for AWE, but that will hopely be another blog).
 

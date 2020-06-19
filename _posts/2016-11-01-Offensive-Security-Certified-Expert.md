@@ -9,7 +9,7 @@ tags:
  - red
 ---
 
-# Offensive Security - Cracking The Perimeter (CTP)
+# Review of Offensive Security - Cracking The Perimeter (CTP)
 
 [CTP](https://www.offensive-security.com/ctp-osce/) looked the perfect "next step" after having [PWK and OSCP back in 2015]({{site.baseurl}}/2015/08/Offensive-Security-Certified-Professional).
 

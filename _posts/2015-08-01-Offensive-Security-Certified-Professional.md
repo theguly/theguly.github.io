@@ -9,7 +9,7 @@ tags:
  - red
 ---
 
-# Offensive Security - Penetration Testing with Kali linux
+# Review of Offensive Security - Penetration Testing with Kali linux
 
 Back in 2014 I started reading about Offensive Security flagship course PWK and companion exam [OSCP](https://www.offensive-security.com/pwk-oscp/).  
 The certification was like a watershed, or at least I felt that way. Not between pro and beginner, more like between who Suffered, felt Pain, and saw Ghost (pun intended)and the others.  
