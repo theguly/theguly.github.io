@@ -3,6 +3,7 @@ layout: post
 title: Course Reviews Format
 description: A quick introduction on my view regarding courses and certifications
 share: true
+date: 1970-01-02 00:00:00 +0000
 tags:
  - courses
  - certifications

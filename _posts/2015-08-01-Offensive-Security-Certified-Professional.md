@@ -3,6 +3,7 @@ layout: post
 title: "Penetration Testing with Kali - Offensive Security Certified Professional"
 description: "Here is my take on Penetration Testing with Kali and relative exam for Offensive Security Certified Professional"
 share: true
+date: 2015-08-01 00:00:00 +0000
 tags:
  - courses
  - certifications
