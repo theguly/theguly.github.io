@@ -9,7 +9,7 @@ date: 1970-01-01
 {% for post in site.posts %}
     <url>
         <loc>{{ site.url }}{{ post.url }}</loc>
-        <lastmod>{{ post.date }}</lastmod>
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     </url>
 {% endfor %}
 
