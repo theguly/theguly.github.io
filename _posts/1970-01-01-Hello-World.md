@@ -3,7 +3,7 @@ layout: post
 title: "Goooooood morning Internet!"
 description: Let's restart from the very beginning of this epoch.
 share: true
-date: 1970-01-01T00:00:00.000Z
+date: 1970-01-01T00:00:00+00:00
 tags:
  - noise
 ---
