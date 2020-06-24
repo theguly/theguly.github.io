@@ -13,12 +13,4 @@ date: 1970-01-01
     </url>
 {% endfor %}
 
-<!-- pages -->
-{% for page in site.pages %}
-    <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
-        <lastmod>{{ page.date }}</lastmod>
-    </url>
-{% endfor %}
-
 </urlset>
