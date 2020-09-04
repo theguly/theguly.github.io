@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Achieve Pareto Principle in secure code review, or die trying"
-description: "Here is my take on eLearnSecurity eXploit Development Student course and relative certification process"
+description: "Blog post for my talk about secure code review at End Summer Camp 2K20"
 share: true
 date: 2020-09-04
 tags:
