@@ -20,7 +20,7 @@ What I want to do is to point out what also happened to conferences: almost ever
 
 [EndSummerCamp](https://www.endsummercamp.org/) choosed to resist and to have a "blended edition": a limited number of people, done with due to anti-covid regulations, attended physically when a broader public attended to the virtual event.
 
-As a "veteran" (I already had 3 talk for ESC) I thought I must accept the challenge and do play my part filling a slot.
+As a "veteran" (my oldest t-shirt dates I think 2007 and I already had 3 talk for ESC) I thought I must accept the challenge and do play my part filling a slot.
 
 The talk I prepared, respecting the 22minutes time limit, was a rush on secure code review.  
 I tried to get the people in the mood when doing code audit, because it could/will be very stressfull, and passed some lesson learned from my very own experience.
