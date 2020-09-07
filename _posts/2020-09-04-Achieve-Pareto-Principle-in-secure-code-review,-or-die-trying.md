@@ -31,6 +31,6 @@ I think I'll try to set up a regular talk, or maybe a full workshop, for EndSumm
 
 There was be no beer with friends, no late night hacking sessions, no camping, and I think I also missed early morning wake up with Enter the Ninja.
 
-ESC was a thing even in 2020, and I'm proud to have played my part.
+ESC has been a thing even in 2020, and I'm proud to have played my part.
 
 Thanks to [ORGA](https://www.endsummercamp.org/index.php/ESC20-Orga)!
