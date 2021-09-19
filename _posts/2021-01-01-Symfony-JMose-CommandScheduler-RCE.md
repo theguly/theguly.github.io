@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Symfony JMose CommandScheduler RCE
+title: "Symfony JMose CommandScheduler RCE"
 description: "A journey in a Symfony website with JMose CommandScheduler enabled lead to some interesting results."
 share: true
 date: 2021-01-01
